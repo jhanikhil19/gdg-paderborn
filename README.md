@@ -23,9 +23,9 @@ This repository serves as a central hub for all **code discussions, event materi
 
 We showcase community-driven open-source projects here. If you have a project to add, check out the **contribution guidelines** below!
 
-| Project Name | Description | Contributors |
-|-------------|-------------|-------------|
-| Example Project | A brief description of the project | @username |
+| Project Name    | Description                        | Contributors |
+| --------------- | ---------------------------------- | ------------ |
+| Example Project | A brief description of the project | @username    |
 
 ## 🤝 How to Contribute
 
