@@ -69,7 +69,6 @@ We welcome contributions from everyone! Here’s how you can contribute:
 - 🐦 [Twitter/X](https://x.com/gdg_paderborn)
 - 💼 [LinkedIn](https://www.linkedin.com/company/gdg-paderborn/)
 - 📸 [Instagram](https://www.instagram.com/gdg_paderborn/)
-- 💬 Join our discussions on [Discord/Slack] (If applicable)
 
 ---
 
