@@ -6,6 +6,7 @@ This repository serves as a central hub for all **code discussions, event materi
 
 ## 🌍 Join GDG Paderborn
 
+![Banner](/zz_others/GDG_Paderborn_Banner.png)
 [![Join Now](https://img.shields.io/badge/Join%20Now-GDG%20Paderborn-blue?style=for-the-badge)](https://gdg.community.dev/gdg-paderborn/)
 
 ## 🌍 About GDG Paderborn
